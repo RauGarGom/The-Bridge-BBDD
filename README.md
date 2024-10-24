@@ -10,7 +10,7 @@ Este proyecto configura una base de datos **PostgreSQL** utilizando **Docker**, 
 
 - **PostgreSQL**: Sistema de gestión de bases de datos relacional.
 - **pgAdmin**: Herramienta gráfica para gestionar la base de datos PostgreSQL.
-- **Render** 
+- **Render**: Software de despliegue de aplicaciones, que utilizamos para albergar la PostgreSQL en la nube.
 
 ---
 
@@ -32,14 +32,16 @@ La base de datos se organiza en las siguientes tablas:
 
 A continuación, se incluirán **dos diagramas** que ilustran la organización de las tablas y sus relaciones:
 
-1. **Modelo Relacional**: Muestra cómo se relacionan las distintas entidades (tablas) del sistema.
+1. **Diagrama de entidad Relación**: Muestra los atributos principales de cada tabla y sus relaciones de claves primarias y foráneas.
+
+![MODELO1](https://github.com/user-attachments/assets/c59e0904-cf72-4afa-9ab5-d9f3952e00fe)
+
+2. **Modelo Relacional**: Muestra cómo se relacionan las distintas entidades (tablas) del sistema.
 
 ![tablas](https://github.com/user-attachments/assets/e6a411b2-725d-47fa-8621-f8354c42c87a)
 
 
-2. **Diagrama de entidad Relación**: Muestra los atributos principales de cada tabla y sus relaciones de claves primarias y foráneas.
 
-![MODELO1](https://github.com/user-attachments/assets/50c15796-b3b5-4147-a53e-99bfe1491296)
 
 
 ## 📋 Estructura de Tablas
