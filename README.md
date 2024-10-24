@@ -34,11 +34,11 @@ A continuación, se incluirán **dos diagramas** que ilustran la organización d
 
 1. **Diagrama de entidad Relación**: Muestra los atributos principales de cada tabla y sus relaciones de claves primarias y foráneas.
 
-![MODELO1](https://github.com/user-attachments/assets/c59e0904-cf72-4afa-9ab5-d9f3952e00fe)
+![MODELO1](https://github.com/user-attachments/assets/50c15796-b3b5-4147-a53e-99bfe1491296)
 
 2. **Modelo Relacional**: Muestra cómo se relacionan las distintas entidades (tablas) del sistema.
 
-![tablas](https://github.com/user-attachments/assets/e6a411b2-725d-47fa-8621-f8354c42c87a)
+![tablas](https://github.com/user-attachments/assets/c59e0904-cf72-4afa-9ab5-d9f3952e00fe)
 
 
 
