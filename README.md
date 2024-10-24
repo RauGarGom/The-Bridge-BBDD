@@ -263,18 +263,6 @@ Implentar entidad TA para hacer un 1:M
 
 ---
 
-## 🧑‍💻 Población de las Tablas con Datos de Ejemplo
-
-Para poblar las tablas con datos ficticios, puedes usar las sentencias SQL de inserción de datos proporcionadas. Aquí un ejemplo para la tabla `campus`:
-
-```sql
-INSERT INTO campus (ubicacion) VALUES ('Madrid'), ('Barcelona'), ('Valencia');
-```
-
-Repite este proceso para las demás tablas.
-
----
-
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más información.
